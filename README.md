@@ -62,4 +62,4 @@
 4. Open a Pull Request to merge changes back into the main branch.
 
 ## License
-This project is licensed under the MIT `License`.
+This project is licensed under the MIT `LICENSE`.
