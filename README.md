@@ -1,4 +1,4 @@
-# Yuxi-3D-Unity-BallRunGame
+# 3D-Unity-BallRunGame
 
 ## Overview
 
