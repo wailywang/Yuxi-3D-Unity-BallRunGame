@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Yuxi-3D-Unity-BallRunGame** is a small 3D running game prototype built with the Unity game engine. The player controls a rolling ball navigating through an obstacle course. The goal is to reach the finish line while avoiding barriers and utilizing moving platforms (lifts). Background music and skyboxes enhance the immersive gameplay.
+**3D-Unity-BallRunGame** is a small 3D running game prototype built with the Unity game engine. The player controls a rolling ball navigating through an obstacle course. The goal is to reach the finish line while avoiding barriers and utilizing moving platforms (lifts). Background music and skyboxes enhance the immersive gameplay.
 
 ## Features
 
@@ -39,10 +39,10 @@
 
 1. **Clone the Repo:**
    ```bash
-   git clone https://github.com/yourusername/Yuxi-3D-Unity-BallRunGame.git
+   git clone https://github.com/yourusername/3D-Unity-BallRunGame.git
 2. **Open in Unity:**
 - Open Unity Hub
-- Select the `Yuxi-3D-Unity-BallRunGame` folder as a project.
+- Select the `3D-Unity-BallRunGame` folder as a project.
 3. **Run the Game in Editor:**
 - Open the main scene.
 - Press the Play button in the Unity Editor.
